@@ -1,0 +1,28 @@
+binário 01
+numérico 0123456789
+hexadecimal 0123456789ABCDEF
+RGB = Reg Green Blue
+# (red _ _) (green _ _) (blue _ _)
+
+
+HEXADECIMAL
+0 = ausência
+F = máximo
+#000000
+#FFFFFF
+
+ex: vermelho = #FF0000
+
+RGB
+0, 1, 2, ... 255
+
+0 = ausência
+255 = máximo
+
+branco = rgb(255,255,255)
+azul = rgb(0,0,255)
+
+REPRESENTAÇÃO EM NOME
+red
+yellow
+blue

@@ -1,7 +1,11 @@
+body {
+    background-color: #CCCCCC;
+}
+
 p {
     text-align: center;
 }
 
-body {
-    background-color: #CCCCCC;
+em strong {
+    color:#FF0000; /* ou red */
 }
